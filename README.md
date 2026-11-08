@@ -13,18 +13,6 @@ My focus is on iOS development, SwiftUI, system customization, virtualization co
 * 🔬 Interested in virtualization, emulation, system customization, and open-source tools.
 * 🚀 Always experimenting, learning, and building something new.
 
-## 🚀 Featured Projects
-
-### 🖥️ iVM
-
-An experimental virtualization and emulation app concept for iOS and iPadOS.
-
-* Virtual machine configuration management
-* ISO file selection
-* A modular backend architecture designed for future development
-
-The real virtualization engine is still under development.
-
 ## 🎯 My Interests
 
 iOS Development · SwiftUI · Apple Ecosystem · UI/UX Design · Virtualization · Emulation · Open Source · Automation
